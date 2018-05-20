@@ -11,7 +11,7 @@ def main():
     """
     Usage: twitterStreaming.py [out filename (json)] <list of query terms>
     Example:
-    python twitterStreaming.py streamAus.json gov government tax taxes budget minister federal politics ethics ethical sustainable 
+    python twitterStreaming.py streamAus.json gov government tax taxes budget minister federal politics ethics ethical sustainable tourism racism poverty gdp income job
     To gather tweets that have keywords "rmit", "#rmit_csit", "cs"
 
     To stop collecting, just stop the script.
