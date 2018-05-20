@@ -1,7 +1,4 @@
-#
-# COSC2671 Social Media and Network Analytics
-# @author Jeffrey Chan, 2018
-#
+
 
 import sys
 from collections import Counter
